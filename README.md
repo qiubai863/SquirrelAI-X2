@@ -1,4 +1,4 @@
-# Android device tree for BOE TC625 (TC625)
+# Android device tree for squirrel X2(TC625)
 
 ```
 #
